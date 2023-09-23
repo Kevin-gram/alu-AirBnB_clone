@@ -7,7 +7,7 @@
 This is the first part of the project that simulates an airbnb application in which we are creating a way to control the modules that our web page is going to use by intervening a database in json format. Here we apply object oriented programming, python data translation and command interpreted logic to deliver a local database that can be modified by commands.
 
 # General concepts in review
-As you navigate this code base, it is great to note the following concepts, while completing this project.
+s you navigate this code base, it is great to note the following concepts, while completing this project.
 - How to create a Python package
 - How to create a command interpreter in Python using the cmd module
 - What is Unit testing and how to implement it in a large project
